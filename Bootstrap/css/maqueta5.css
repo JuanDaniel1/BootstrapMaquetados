@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#col1 {
+    background-color: grey;
+    float: left;
+    border-right: 50px solid white;
+}
+#col2 {
+    background-color: grey;
+    float: left;
+    border: 1px solid black;
+}
+#col3 {
+    float: left;
+    border: 1px solid black;
+}
+#cols1 {
+    float: left;
+    border: 1px solid black;
+}
+#cols2 {
+    float: left;
+    border: 1px solid black;
+}
+#col4 {
+    float: left;
+    border: 1px solid black;
+}
+#col5 {
+    float: left;
+    border: 1px solid black;
+}
+#col6 {
+    float: left;
+    border: 1px solid black;
+}
+#col7 {
+    float: left;
+    border: 1px solid black;
+}
+#col8 {
+    float: left;
+}
