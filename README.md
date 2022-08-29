@@ -1,4 +1,19 @@
 # BootstrapMaquetados
+
+ENTIDAD: Centro de Biotecnología Agropecuaria
+
+FICHA: 2558346
+
+PROGRAMA: Analisis y Desarrollo de Software
+
+AUTOR: Juan Daniel Bohórquez González
+
+FECHA DE CREACIÓN: 31 de Julio de 2022
+
+FECHA DE MODIFICACION: 7 de Agosto de 2022 - Juan Daniel Bohórquez González
+
+
+
 ## Info
 
 En este repositorio se realizaron ejercicios con bootstrap desde los grids, donde cada maqueta estará ajustada por columnas usando bootstrap, anexo cada uno tiene un link de bootstrap y un script para que todas las clases funcionen, tambien estan documentados e indentados, en este repositorio hay 9 maquetas de HTML 5 con CSS, se organizaron las columnas y filas con las medidas exactas para que todo quede organizado y no tenga problemas esteticos. Por otro lado se les aplicaron colores e imagenes con varios estilos en CSS, tambien las maquetas fueron validadas en W3C para que tengan mayor soporte y sean aptas como maquetas HTML y se realizo el sistema responsive en cada maqueta para que sea compatible en distintos dispositivos
