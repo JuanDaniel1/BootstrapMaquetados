@@ -97,20 +97,20 @@ Maqueta de 14 columnas con imagenes insertadas y con su respectiva configuracion
 
 ### Maqueta 6:
 
-![Maqueta 6 p1](https://user-images.githubusercontent.com/110575826/187010863-c84ef7fa-c7a5-486d-9d59-d60cfd2cae08.jpg)
+![maqueta6](https://user-images.githubusercontent.com/110575826/188033952-ef425425-dd34-49cd-9eec-36a99ab222ab.jpg)
 
-![Maqueta 6 p2](https://user-images.githubusercontent.com/110575826/187010900-8e4921e8-8edf-4420-b5c4-f48e63f58dd9.jpg)
+![maqueta6,2](https://user-images.githubusercontent.com/110575826/188034038-3ff729b9-7bd8-43fe-93a5-8dbb9b2c4e01.jpg)
 
-![Maqueta 6 p3'1](https://user-images.githubusercontent.com/110575826/187010944-49619df7-e403-4f58-b0e6-52ff74c0fe89.jpg)
+![maqueta6,3](https://user-images.githubusercontent.com/110575826/188034194-7c67e1e1-fe50-4813-bf55-67187e2dfd5b.jpg)
 
-![Maqueta 6 p3'2](https://user-images.githubusercontent.com/110575826/187010982-29260383-6c5d-4b7a-82e8-b98f8922b336.jpg)
+![maqueta6,4](https://user-images.githubusercontent.com/110575826/188034281-646f31fc-9b59-4f73-bfa9-cd8932286820.jpg)
 
 Maqueta de 18 columnas con imagenes insertadas, tambien con texto encima de imagenes y con su respectiva configuracion de responsive en 3 fases.
 
 ### Maqueta 6 Cards:
 
-![Maqueta 6 Cards1](https://user-images.githubusercontent.com/110575826/187011160-df09ef8e-c699-443a-8b91-132574994143.jpg)
+![PantallazoCards](https://user-images.githubusercontent.com/110575826/188033662-57696454-64ae-40ff-9074-9f7be7dac528.jpg)
 
-![Maqueta 6 Cards2](https://user-images.githubusercontent.com/110575826/187011193-8afb007c-53b6-4751-af95-7092992f0288.jpg)
+![PantallazoCards2](https://user-images.githubusercontent.com/110575826/188033834-bac663b2-74ac-4841-aadf-0b5544524ec1.jpg)
 
 Maqueta de 18 columnas con imagenes insertadas, texto encima de imagenes y uso de las cards en bootstrap, configuracion del modal con detalles y contenido del producto, responsive en 3 fases.
