@@ -8,9 +8,9 @@ PROGRAMA: Analisis y Desarrollo de Software
 
 AUTOR: Juan Daniel Bohórquez González
 
-FECHA DE CREACIÓN: 31 de Julio de 2022
+FECHA DE CREACIÓN: 24 de septiembre de 2022
 
-FECHA DE MODIFICACION: 7 de Agosto de 2022 - Juan Daniel Bohórquez González
+FECHA DE MODIFICACION: 27 de septiembre de 2022 - Juan Daniel Bohórquez González
 
 
 
